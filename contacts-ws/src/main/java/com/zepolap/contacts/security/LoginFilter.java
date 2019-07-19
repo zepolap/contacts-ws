@@ -1,4 +1,4 @@
-package com.zepolap.security;
+package com.zepolap.contacts.security;
 
 
 import com.fasterxml.jackson.databind.ObjectMapper;

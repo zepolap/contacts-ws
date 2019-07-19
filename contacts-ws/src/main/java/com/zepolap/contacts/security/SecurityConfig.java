@@ -1,4 +1,4 @@
-package com.zepolap.security;
+package com.zepolap.contacts.security;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder;

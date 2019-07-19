@@ -1,4 +1,4 @@
-package com.zepolap.security;
+package com.zepolap.contacts.security;
 
 import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.web.filter.GenericFilterBean;
